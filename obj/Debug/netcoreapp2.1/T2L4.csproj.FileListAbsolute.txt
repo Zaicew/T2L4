@@ -1,0 +1,11 @@
+C:\Users\Zaicew\source\repos\T2L4\T2L4\bin\Debug\netcoreapp2.1\T2L4.deps.json
+C:\Users\Zaicew\source\repos\T2L4\T2L4\bin\Debug\netcoreapp2.1\T2L4.runtimeconfig.json
+C:\Users\Zaicew\source\repos\T2L4\T2L4\bin\Debug\netcoreapp2.1\T2L4.runtimeconfig.dev.json
+C:\Users\Zaicew\source\repos\T2L4\T2L4\bin\Debug\netcoreapp2.1\T2L4.dll
+C:\Users\Zaicew\source\repos\T2L4\T2L4\bin\Debug\netcoreapp2.1\T2L4.pdb
+C:\Users\Zaicew\source\repos\T2L4\T2L4\obj\Debug\netcoreapp2.1\T2L4.csprojAssemblyReference.cache
+C:\Users\Zaicew\source\repos\T2L4\T2L4\obj\Debug\netcoreapp2.1\T2L4.csproj.CoreCompileInputs.cache
+C:\Users\Zaicew\source\repos\T2L4\T2L4\obj\Debug\netcoreapp2.1\T2L4.AssemblyInfoInputs.cache
+C:\Users\Zaicew\source\repos\T2L4\T2L4\obj\Debug\netcoreapp2.1\T2L4.AssemblyInfo.cs
+C:\Users\Zaicew\source\repos\T2L4\T2L4\obj\Debug\netcoreapp2.1\T2L4.dll
+C:\Users\Zaicew\source\repos\T2L4\T2L4\obj\Debug\netcoreapp2.1\T2L4.pdb
